@@ -1,6 +1,6 @@
 # Sveltekit + Bun
 
-Everything you need to build a Svelte project, powered by [Bun](https://bun.sh). Based on the [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte) skeleton project.
+Everything you need to build a Svelte project, powered by [Bun](https://bun.sh) and the [`svelte-adapter-bun`](https://github.com/gornostay25/svelte-adapter-bun) package. Based on the [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte) skeleton project.
 
 ## Requirements
 
