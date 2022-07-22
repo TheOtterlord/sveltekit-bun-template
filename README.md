@@ -10,7 +10,7 @@ Everything you need to build a Svelte project, powered by [Bun](https://bun.sh).
 ## Clone & Setup
 
 ```bash
-bun create https://github.com/TheOtterlord/sveltekit-bun-template my-project
+bun create TheOtterlord/sveltekit-bun-template my-project
 ```
 
 ## Developing
