@@ -3,8 +3,8 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "vite dev",
-    "build": "bun run check && vite build && bun ./scripts/patch.ts",
-    "build:force": "vite build && bun ./scripts/patch.ts",
+    "build": "bun run check && vite build",
+    "build:force": "vite build",
     "package": "svelte-kit package",
     "preview": "vite preview",
     "prepare": "svelte-kit sync",
@@ -14,7 +14,7 @@
   "devDependencies": {
     "@sveltejs/kit": "^1.0.12",
     "svelte": "^3.55.1",
-    "svelte-adapter-bun": "^0.3.1",
+    "svelte-adapter-bun": "^0.4.0",
     "svelte-check": "^3.0.2",
     "svelte-preprocess": "^5.0.0",
     "typescript": "^4.9.4",
